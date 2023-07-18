@@ -1,4 +1,6 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+NAME : DHANUSH P
+REGISTER NO : 23001835
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -63,9 +65,17 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: 
 RegisterNumber:  
 */
-Logic symbol & Truthtable
+PROGRRAM:
+
+Logic symbol & Truthtable:
+![image](https://github.com/Dhanush0143/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841924/782c6077-19d5-40c6-9123-8dcd103862b3)
+
 RTL realization
-Output:
+![image](https://github.com/Dhanush0143/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841924/de8012c1-1cd3-4b91-8c6e-8121f306e2ad)
+
+Output wave:
+![image](https://github.com/Dhanush0143/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841924/0ae08659-7495-47cf-9611-2716dd2cec91)
+
 RTL
 
 Result:
